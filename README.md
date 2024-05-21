@@ -7,3 +7,4 @@ I use stolen assets :bcaThumbsUpYes:
 
 oh hey look also heres something that NO foundry dev can do I'm gonna POST A PICTURE
 ![image](https://github.com/noho-e/fallout-dice-addition/assets/170401300/3c07e799-12ab-446e-8b0a-691cf953ced7)
+WOAG!
