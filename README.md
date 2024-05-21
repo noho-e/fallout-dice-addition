@@ -11,3 +11,6 @@ WOAG!
 
 
 https://sketchfab.com/3d-models/nuka-cola-bottle-cap-5c4f018f8d1344f2a214f6c3fbd25c4d
+
+oh yeah also you gotta like turn the thing on by going into your settings or whatever and turning it on
+![image](https://github.com/noho-e/fallout-dice-addition/assets/170401300/ada1793f-623a-40c5-b067-66d8ff108169)
