@@ -1,0 +1,39 @@
+{
+  "id": "fallout-dice-addition",
+  "title": "fawour",
+  "description": "uhhh I uhhh",
+  "authors": [
+    {
+    "name": "guh"
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "dice-so-nice",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/ForgeVTT/fvtt-module-dlopen/master/module.json"
+      },
+      {
+        "id": "custom-fonts",
+        "type": "module",
+        "manifest": "https://github.com/arcanistzed/custom-fonts/releases/latest/download/module.json"
+      }
+    ]
+  },
+  "flags": {
+    "custom-fonts": {
+        "fonts": [
+            "Rubik"
+        ],
+        "directory": "fonts",
+        "primary": "Futura-BoldItalic",
+        "mono": "Rubik"
+    }
+},
+  "version": "1.0.0",
+  "compatibleCoreVersion": 11,
+  "scripts": [
+    "uh.js"
+  ]
+}
