@@ -32,6 +32,7 @@
     }
 },
   "version": "1.0.0",
+  "download": "https://github.com/noho-e/fallout-dice-addition/releases/download/uhhhh/fallout-dice-addition.zip",
   "compatibleCoreVersion": 11,
   "scripts": [
     "uh.js"
